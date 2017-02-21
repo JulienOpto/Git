@@ -5,5 +5,5 @@
 5. Envoyer le fichier sur git -> git commit README.md
 6. Modifier le fichier README.md et le sauvegarder
 7. Lier le repository github -> git remote add origin https://github.com/JulienOpto/Git.git
-8. Commit de nouveau
+8. Commit de nouveau avec -a pour mettre à jour
 9. envoi des fichiers -> git push -u origin master
